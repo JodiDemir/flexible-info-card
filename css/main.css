@@ -32,4 +32,16 @@ li {
   display: flex;
   align-items: center;
   justify-content: space-between;
+  align-content: center;
+}
+
+a {
+  padding: .5rem 1rem .6rem;
+  background-color: #444;
+  color: #fff;
+}
+
+img {
+  display: block;
+  width: 10%;
 }
